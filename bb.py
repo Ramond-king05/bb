@@ -1,3 +1,3 @@
 import streamlit as  st
-st.image("MY.png")
+st.image("MMY.png")
 
